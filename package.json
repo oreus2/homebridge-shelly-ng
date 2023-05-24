@@ -1,10 +1,15 @@
 {
-  "name": "homebridge-shelly-ng",
-  "version": "1.6.0",
+  "name": "@lazarbela/homebridge-shelly-ng",
+  "version": "1.6.1",
   "description": "Homebridge plugin for the next generation of Shelly devices",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "build": "rimraf ./dist && tsc",
+    "publish": "npm publish --access public",
     "lint": "eslint ./src --ext .ts,.js --max-warnings=0",
     "test": "jest",
     "preversion": "npm run build && npm run lint",
@@ -16,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexryd/homebridge-shelly-ng.git"
+    "url": "git+https://github.com/lazarbela/homebridge-shelly-ng.git"
   },
   "keywords": [
     "homebridge",
@@ -24,11 +29,14 @@
     "shelly"
   ],
   "author": "Alexander Rydén",
+  "contributors": [
+    "Béla Lázár"
+  ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/alexryd/homebridge-shelly-ng/issues"
+    "url": "https://github.com/lazarbela/homebridge-shelly-ng/issues"
   },
-  "homepage": "https://github.com/alexryd/homebridge-shelly-ng#readme",
+  "homepage": "https://github.com/lazarbela/homebridge-shelly-ng#readme",
   "funding": {
     "type": "kofi",
     "url": "https://ko-fi.com/alexryd"
@@ -46,6 +54,6 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "shellies-ng": "^1.5.1"
+    "@lazarbela/shellies-ng": "^1.6.1"
   }
 }

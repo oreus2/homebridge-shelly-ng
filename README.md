@@ -1,8 +1,7 @@
-<a href="https://github.com/alexryd/homebridge-shelly-ng"><img src="homebridge-shelly-ng.png" height="120"></a>
+<a href="https://github.com/lazarbela/homebridge-shelly-ng"><img src="homebridge-shelly-ng.png" height="120"></a>
 
 # homebridge-shelly-ng
-[![npm-version](https://badgen.net/npm/v/homebridge-shelly-ng)](https://www.npmjs.com/package/homebridge-shelly-ng)
-[![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
+[![npm-version](https://badgen.net/npm/v/@lazarbela/homebridge-shelly-ng)](https://www.npmjs.com/package/@lazarbela/homebridge-shelly-ng)
 
 [Homebridge](https://homebridge.io) plugin for [Shelly](https://shelly.cloud),
 enabling HomeKit support for the next generation of Shelly devices.
@@ -15,6 +14,7 @@ For the first generation, see [homebridge-shelly](https://github.com/alexryd/hom
 * [Shelly Plus 1 PM](https://shelly.cloud/shelly-plus-1pm/)
 * [Shelly Plus 2 PM](https://shelly.cloud/shelly-plus-2pm/)
 * [Shelly Plus I4](https://shelly.cloud/shelly-plus-i4/)
+* [Shelly Plus I4 DC](https://shelly.cloud/shelly-plus-i4/)
 * [Shelly Plus Plug US](https://shelly.cloud/shelly-plus-plug-us/)
 * [Shelly Pro 1](https://shelly.cloud/shelly-pro-smart-home-automation-solution/)
 * [Shelly Pro 1 PM](https://shelly.cloud/shelly-pro-smart-home-automation-solution/)

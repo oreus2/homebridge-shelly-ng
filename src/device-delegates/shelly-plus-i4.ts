@@ -1,4 +1,7 @@
-import { ShellyPlusI4 } from 'shellies-ng';
+import {
+  ShellyPlusI4,
+  ShellyPlusI4DC 
+} from 'shellies-ng';
 
 import { DeviceDelegate } from './base';
 import {
@@ -39,4 +42,8 @@ export class ShellyPlusI4Delegate extends DeviceDelegate {
   }
 }
 
-DeviceDelegate.registerDelegate(ShellyPlusI4Delegate, ShellyPlusI4);
+DeviceDelegate.registerDelegate(
+  ShellyPlusI4Delegate,
+  ShellyPlusI4,
+  ShellyPlusI4DC
+);
