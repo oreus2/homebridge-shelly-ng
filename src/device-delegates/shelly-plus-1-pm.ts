@@ -1,7 +1,7 @@
 import {
   ShellyPlus1Pm,
   ShellyPlus1PmUl,
-} from 'shellies-ng';
+} from '@lazarbela/shellies-ng';
 
 import { DeviceDelegate } from './base';
 

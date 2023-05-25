@@ -16,10 +16,7 @@
     "strict": true,
     "esModuleInterop": true,
     "noImplicitAny": false,
-    "experimentalDecorators": true,
-    "paths": {
-      "shellies-ng": ["./node_modules/@lazarbela/shellies-ng"]
-    }
+    "experimentalDecorators": true
   },
   "include": [
     "src/"

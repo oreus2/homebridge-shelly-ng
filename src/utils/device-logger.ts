@@ -1,4 +1,4 @@
-import { Device } from 'shellies-ng';
+import { Device } from '@lazarbela/shellies-ng';
 import { Logger, LogLevel } from 'homebridge';
 
 /**

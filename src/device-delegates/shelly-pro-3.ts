@@ -1,4 +1,4 @@
-import { ShellyPro3 } from 'shellies-ng';
+import { ShellyPro3 } from '@lazarbela/shellies-ng';
 
 import { DeviceDelegate } from './base';
 
