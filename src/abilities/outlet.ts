@@ -1,5 +1,5 @@
 import { CharacteristicValue } from 'homebridge';
-import { CharacteristicValue as ShelliesCharacteristicValue, Switch } from '@lazarbela/shellies-ng';
+import { CharacteristicValue as ShelliesCharacteristicValue, Switch } from '@oreus2/shellies-ng';
 
 import { Ability, ServiceClass } from './base';
 
