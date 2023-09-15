@@ -1,4 +1,4 @@
-<a href="https://github.com/lazarbela/homebridge-shelly-ng"><img src="homebridge-shelly-ng.png" height="120"></a>
+<a href="https://github.com/oreus2/homebridge-shelly-ng"><img src="homebridge-shelly-ng.png" height="120"></a>
 
 # homebridge-shelly-ng
 [![npm-version](https://badgen.net/npm/v/@oreus2/homebridge-shelly-ng)](https://www.npmjs.com/package/@oreus2/homebridge-shelly-ng)
