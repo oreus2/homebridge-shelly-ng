@@ -1,5 +1,5 @@
 {
-  "name": "@oreus/homebridge-shelly-ng",
+  "name": "@oreus2/homebridge-shelly-ng",
   "version": "1.6.4",
   "description": "Homebridge plugin for the next generation of Shelly devices",
   "main": "dist/index.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oreus/homebridge-shelly-ng.git"
+    "url": "git+https://github.com/oreus2/homebridge-shelly-ng.git"
   },
   "keywords": [
     "homebridge",
@@ -35,9 +35,9 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/oreus/homebridge-shelly-ng/issues"
+    "url": "https://github.com/oreus2/homebridge-shelly-ng/issues"
   },
-  "homepage": "https://github.com/oreus/homebridge-shelly-ng#readme",
+  "homepage": "https://github.com/oreus2/homebridge-shelly-ng#readme",
   "funding": {
     "type": "kofi",
     "url": "https://ko-fi.com/alexryd"
