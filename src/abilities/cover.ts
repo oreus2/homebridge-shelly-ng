@@ -1,5 +1,5 @@
 import { CharacteristicValue } from 'homebridge';
-import { Cover } from '@lazarbela/shellies-ng';
+import { Cover } from '@oreus2/shellies-ng';
 
 import { Ability, ServiceClass } from './base';
 
