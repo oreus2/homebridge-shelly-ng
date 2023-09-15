@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "@oreus2/homebridge-shelly-ng",
   "version": "1.6.4",
   "description": "Homebridge plugin for the next generation of Shelly devices",
