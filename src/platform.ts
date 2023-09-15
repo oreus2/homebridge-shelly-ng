@@ -13,7 +13,7 @@ import {
   DeviceIdentifiers,
   MdnsDeviceDiscoverer,
   Shellies,
-} from '@lazarbela/shellies-ng';
+} from '@oreus2/shellies-ng';
 
 import { CustomCharacteristics, createCharacteristics } from './utils/characteristics';
 import { CustomServices, createServices } from './utils/services';
@@ -26,7 +26,7 @@ type AccessoryUuid = string;
 /**
  * The name of this plugin.
  */
-export const PLUGIN_NAME = '@lazarbela/homebridge-shelly-ng';
+export const PLUGIN_NAME = '@oreus2/homebridge-shelly-ng';
 
 /**
  * The name of this homebridge platform.
