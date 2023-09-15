@@ -3,7 +3,7 @@ import {
   Cover,
   Switch,
   SwitchEnergyCounterAttributes,
-} from '@lazarbela/shellies-ng';
+} from '@oreus2/shellies-ng';
 
 import { Ability, ServiceClass } from './base';
 
