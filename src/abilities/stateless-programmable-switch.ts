@@ -1,4 +1,4 @@
-import { Input } from '@lazarbela/shellies-ng';
+import { Input } from '@oreus2/shellies-ng';
 
 import { Ability, ServiceClass } from './base';
 
